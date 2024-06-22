@@ -46,3 +46,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Acknowledgements
 Inspired by the classic Minesweeper game.
 Built using Python's Tkinter library.
+
+
+![]("C:\Users\Jozef\Videos\Captures\Mineswreeper%206_22_2024%201_11_11 AM.png")
