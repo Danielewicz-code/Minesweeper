@@ -48,4 +48,4 @@ Inspired by the classic Minesweeper game.
 Built using Python's Tkinter library.
 
 
-![](Mineswreeper%206_22_2024%291_11_11 AM.png)
+![Screenshot](Mineswreeper%206_22_2024%291_11_11 AM.png)
