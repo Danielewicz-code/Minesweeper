@@ -49,5 +49,5 @@ Inspired by the classic Minesweeper game.
 
 Built using Python's Tkinter library.
 
-
+## Game Image
 ![Mineswreeper 6_22_2024 1_11_11 AM](https://github.com/Danielewicz-code/Minesweeper/assets/134563548/63dfdd9a-2925-41b2-bcfe-a4b8cc4a7c80)
