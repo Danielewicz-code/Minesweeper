@@ -120,7 +120,7 @@ time_holder = Label(
     left_sidebar,
     height=2,
     width=12,
-    text="TIME ELAPSED:\n00:00",
+    text="ELAPSED TIME:\n00:00",
     font=("Helvetica", 20, "bold"),
     bg="#e67e22",
     fg="white",
