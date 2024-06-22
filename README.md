@@ -43,9 +43,11 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Acknowledgements
+## Acknowledgements
+
 Inspired by the classic Minesweeper game.
+
 Built using Python's Tkinter library.
 
 
-![Screenshot](Mineswreeper%206_22_2024%291_11_11 AM.png)
+![Mineswreeper 6_22_2024 1_11_11 AM](https://github.com/Danielewicz-code/Minesweeper/assets/134563548/63dfdd9a-2925-41b2-bcfe-a4b8cc4a7c80)
