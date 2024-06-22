@@ -119,7 +119,7 @@ reset_button.place(
 time_holder = Label(
     left_sidebar,
     height=2,
-    width=12,
+    width=14,
     text="ELAPSED TIME:\n00:00",
     font=("Helvetica", 20, "bold"),
     bg="#e67e22",
@@ -131,7 +131,7 @@ time_holder = Label(
 )
 
 time_holder.place(
-    x=utils.width_prct(2),
+    x=utils.width_prct(0.2),
     y=utils.height_prct(35)
 )
 
