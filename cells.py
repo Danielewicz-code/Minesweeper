@@ -172,7 +172,7 @@ class Cell:
             if Cell.elapsed_time < settings.MAX_SECONDS:
                 Cell.elapsed_time += 1
                 elapsed_minutes = time.strftime("%M:%S", time.gmtime(Cell.elapsed_time))
-                label.config(text=f"TIME LEFT:\n {elapsed_minutes}")
+                label.config(text=f"ELAPSED TIME:\n {elapsed_minutes}")
                 Cell.timer_id = label.after(1000, update)
             else:
                 label.config(text="Time's up!")
@@ -192,7 +192,7 @@ class Cell:
         Cell.elapsed_seconds = 0
         Cell.timer_running = False
         if Cell.timer_label:
-            Cell.timer_label.config(text="TIME LEFT\n 00:00")
+            Cell.timer_label.config(text="ELAPSED TIME:\n 00:00")
         Cell.timer(Cell.timer_label)
 
     def __repr__(self) -> str:
